@@ -106,7 +106,7 @@ SECTIONS = [
             kv("Host", "DestroMacroAtacado"),
             kv("Kernel", "Junior systems analyst"),
             kv("IDE", "VSCode")]),
-    (None, [kv("Languages.Programming", "Python, JavaScript"),
+    (None, [kv("Languages.Programming", "Python, JavaScript, JAVA"),
             kv("Languages.Computer", "HTML, CSS, JSON"),
             kv("Languages.Real", "Português, English")]),
     (None, [kv("Hobbies.Software", "Automation, ERP"),
